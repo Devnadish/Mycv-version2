@@ -1,0 +1,77 @@
+@font-face {
+  src: url("../public/fonts/next.ttf") format("truetype"); ;
+  font-family: "NX";
+   font-style: normal;
+   font-weight: bold;
+  }
+  @font-face {
+    src: url("../public/fonts/Cairo-Bold.ttf") format("truetype"); ;
+    font-family: "CB";
+     font-style: normal;
+     font-weight: bold;
+    }
+  
+ 
+
+
+  @font-face {
+    src: url("../public/fonts/Cairo-Regular.ttf") format("truetype"); ;
+    font-family: "CR";
+     font-style: normal;
+     font-weight: normal;
+    }
+
+
+
+      
+@font-face {
+  src: url("../public/fonts/Tajawal-Bold.ttf") format("truetype"); ;
+  font-family: "TB";
+   font-style: normal;
+   font-weight: bold;
+  }
+  @font-face {
+    src: url("../public/fonts/Tajawal-Regular.ttf") format("truetype"); ;
+    font-family: "TR";
+     font-style: normal;
+     font-weight: normal;
+    }
+
+
+    @font-face {
+      src: url("../public/fonts/aFont.ttf") format("truetype"); ;
+      font-family: "AF";
+       font-style: normal;
+       font-weight: normal;
+      }
+  
+      
+
+    @font-face {
+      src: url("../public/fonts/Droid-Naskh-Regular.ttf") format("truetype"); ;
+      font-family: "dn";
+       font-style: normal;
+       font-weight: normal;
+      }
+  
+      @font-face {
+        src: url("../public/fonts/Lato-Bold.ttf") format("truetype"); ;
+        font-family: "latoBold";
+         font-style: normal;
+         font-weight: normal;
+        }
+    
+        @font-face {
+          src: url("../public/fonts/Lato-Black.ttf") format("truetype"); ;
+          font-family: "latoBlack";
+           font-style: normal;
+           font-weight: normal;
+          }
+      
+          @font-face {
+            src: url("../public/fonts/Lato-Light.ttf") format("truetype"); ;
+            font-family: "latoLight";
+             font-style: normal;
+             font-weight: normal;
+            }
+        

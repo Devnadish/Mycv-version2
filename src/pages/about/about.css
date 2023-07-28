@@ -1,0 +1,22 @@
+.cta {
+  font-family: 'DynaPuff', cursive;
+  padding: 0;
+  margin: 0;
+  font-size: 1.2rem;
+  color: #080808;
+  font-family: 'Cairo', sans-serif;
+  font-weight: 800;
+}
+.hireBtn {
+  font-size: 1.8rem;
+  margin-left: 10px;
+  font-family: 'Cairo', sans-serif;
+}
+.smallscreen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+

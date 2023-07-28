@@ -1,0 +1,3 @@
+GET  http://localhost:1337/api/cliend-queries?sort[0]=id%3Adesc
+###
+GET  http://localhost:1337/api/cliend-queries
